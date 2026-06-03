@@ -1,0 +1,6 @@
+{
+  "name": "JOBRise",
+  "description": "Unified digital youth employment portal featuring job listings, application tracking, a gamified skills assessment hub, and interactive resume feedback tools.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
